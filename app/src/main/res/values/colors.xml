@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3b5998</color>
+    <color name="colorPrimaryDark">#3b5998</color>
+    <color name="colorAccent">#3b5998</color>
+    <color name="fb">#3b5998</color>
+    <color name="gmail">#ee3f10</color>
+    <color name="twitter">#00BFFF</color>
+</resources>
